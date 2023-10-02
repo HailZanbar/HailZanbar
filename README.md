@@ -3,7 +3,7 @@
 ## About Me:
 
 - 🌱 I’m a computer science student at Bar Ilan University.
-- ⚡ I love learning new technologies and I always strive to progress in this field.
+- ⚡ I like to learn new technologies.
 
 ### 📫 Connect with me:
 <p align="left">
