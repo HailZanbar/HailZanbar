@@ -1,4 +1,4 @@
-### Hi there, I'm Hail Zanbar 👋
+### Hi there, I'm Hail Hochman.
 
 ### 📫 Connect with me:
 <p align="left">
